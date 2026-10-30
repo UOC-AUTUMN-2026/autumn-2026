@@ -145,7 +145,7 @@ The following containers should start:
 * autumn-2026-userdb_1 - the postgresql database for the user service
 * autumn-2026-coursedb_1 - the postgresql database for the course service
 * autumn-2026-credentialdb_1 - the postgresql database for the microcredential service
-* autumn-2026-rentdb_1 - the postgresql database for the microcredential service
+* autumn-2026-rentdb_1 - the postgresql database for the rent service
 * autumn-2026-zookeeper_1 - kafka zookeeper
 
 In order to verify that all containers are up and running, we will execute the following command:
