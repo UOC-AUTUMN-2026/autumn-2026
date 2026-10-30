@@ -108,15 +108,15 @@ It is important that you carefully review the hardware and software requirements
 Once Docker Compose is installed, we will continue with the project stub. It is recommended to set up a folder structure like so:
 
 ```
-spring-2026
+autumn-2026
 ├ README.md
 ├ docker-compose.yml
-├ spring-2026-notification
-├ spring-2026-productcatalog
-├ spring-2026-user
-├ spring-2026-course
-├ spring-2026-microcredential
-└ spring-2026-rent
+├ autumn-2026-notification
+├ autumn-2026-productcatalog
+├ autumn-2026-user
+├ autumn-2026-course
+├ autumn-2026-microcredential
+└ autumn-2026-rent
 ```
 
 <p align="right">(<a href="#top">go up</a>)</p>
